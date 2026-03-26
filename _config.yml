@@ -8,8 +8,9 @@
 # Site Settings
 title                    : "Jia Yan"
 description              : "Interpersonal Communication, <br> Health Communication"
-repository               : "hi-jiayan/acad-homepage.github.io"
 url: "https://hi-jiayan.github.io"
+baseurl: ""
+repository               : "hi-jiayan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
