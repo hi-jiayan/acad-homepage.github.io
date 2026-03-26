@@ -14,7 +14,7 @@ Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinoi
 
 I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
-Feel free to reach out via email at jiayan2@illinois.edu with any questions, to chat about research, or to explore potential collaborations.
+Feel free to reach out to me via email at jiayan2@illinois.edu with any questions, to chat about research, or to explore potential collaborations.
 
 ## Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
@@ -29,15 +29,15 @@ Feel free to reach out via email at jiayan2@illinois.edu with any questions, to 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-**Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling*. https://doi.org/10.1016/j.pec.2025.108810
+**Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling*. <https://doi.org/10.1016/j.pec.2025.108810>
 
-**Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health*. https://doi.org/10.1080/07448481.2025.2451978
+**Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health*. <https://doi.org/10.1080/07448481.2025.2451978>
 
-Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*. https://doi.org/10.1080/10410236.2025.2585307
+Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*. <https://doi.org/10.1080/10410236.2025.2585307>
 
 Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons.
 
-Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. https://doi.org/10.1080/10410236.2024.2347000
+Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. <https://doi.org/10.1080/10410236.2024.2347000>
 
 ## Work in Progress
 **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Journal blinded for peer review.*
@@ -61,16 +61,16 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
   *Graduate College, University of Illinois Urbana-Champaign*
 
 - *2023–2025*	**Friends Conference Travel Award** (Total: $2800) <br>
-					Department of Communication, University of Illinois Urbana-Champaign
+  Department of Communication, University of Illinois Urbana-Champaign
   
 - *2023, 2024* **Conference Presentation Award** (Total: $300)<br>
   *Graduate College, University of Illinois Urbana-Champaign*
 
 - *2023, 2024* **Conference Travel Grant** (Total: $400) <br>
-  Student Caucus, National Communication Association
+  *Student Caucus, National Communication Association*
   
 - *2018–2025* **Teacher Ranked as Excellent** <br>
-  Fall 2018, Fall 2020*, Spring 2021, Fall 2021, Spring 2022*, Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025* <br>
+  Fall 2018, Fall 2020"*", Spring 2021, Fall 2021, Spring 2022"*", Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025* <br>
   *University of Illinois Urbana-Champaign* <br>
   **Denotes outstanding rating for top 10% of TAs among campus*
   
