@@ -35,7 +35,7 @@ Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians�
 
 Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), The Handbook of Mental Health Communication. John Wiley & Sons.
 
-Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. Health Communication.
+Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. Health Communication. https://doi.org/10.1080/10410236.2024.2347000
 
 # Work in Progress
 **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Jounal blinded for peer review.*
@@ -52,9 +52,11 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
 
 
 # 🎖 Funding, Honors and Awards
-- *2025* Ruth Anne Clark Award ($1600 for dissertation research) *Department of Commubnication, University of Illinois Urbana-Champaign*
+- *2025* Ruth Anne Clark Award ($1600 for dissertation research)
+  *Department of Communication, University of Illinois Urbana-Champaign*
   
-- *2024-2025* Marion Morse Wood Fellowship ($12000) *Graduate College, University of Illinois Urbana-Champaign*
+- *2024-2025* Marion Morse Wood Fellowship ($12000)
+  *Graduate College, University of Illinois Urbana-Champaign*
   
 - *2018–2025* Teacher Ranked as Excellent
   Fall 2018, Fall 2020*, Spring 2021, Fall 2021, Spring 2022*, Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025*
