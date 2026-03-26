@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-
+<span class='anchor' id='Publications'></span>
 
 Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I obtained by Bachelor's degree in Communication and Social Psychology, and Master's degree in Communication both at Illinois before continuing to the Doctoral program. 
 
