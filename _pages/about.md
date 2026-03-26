@@ -8,36 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
+Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I obtained by Bachelor's degree in Communication and Social Psychology, and Master's degree in Communication both at Illinois before continuing to the Doctoral program. 
+
+I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
 # 📬 News
-- *2026.04*: &nbsp; My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at Kentucky Conference on Health Communication in Lexington, KY.
+- *2026.04*: &nbsp; 🎤 My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at Kentucky Conference on Health Communication in Lexington, KY.
  
-- *2026.06*: &nbsp; I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the 76th Annual International Communication Association Conference in Cape Town, South Africa.
+- *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the 76th Annual International Communication Association Conference in Cape Town, South Africa.
 
 
 # 📝 Publications 
 
-**Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. Patient Education & Counseling. https://doi.org/10.1016/j.pec.2025.108810
+**Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling*. https://doi.org/10.1016/j.pec.2025.108810
 
-**Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. Journal of American College Health. https://doi.org/10.1080/07448481.2025.2451978
+**Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health*. https://doi.org/10.1080/07448481.2025.2451978
 
-Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. Health Communication. https://doi.org/10.1080/10410236.2025.2585307
+Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*. https://doi.org/10.1080/10410236.2025.2585307
 
-Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), The Handbook of Mental Health Communication. John Wiley & Sons.
+Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons.
 
-Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. Health Communication. https://doi.org/10.1080/10410236.2024.2347000
+Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. https://doi.org/10.1080/10410236.2024.2347000
 
-# Work in Progress
+## Work in Progress
 **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Jounal blinded for peer review.*
 
 **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Jounal blinded for peer review.*
@@ -52,20 +47,31 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
 
 
 # 🎖 Funding, Honors and Awards
-- *2025* Ruth Anne Clark Award ($1600 for dissertation research)
+- *2025* **Ruth Anne Clark Award** ($1600 for dissertation research)<br>
   *Department of Communication, University of Illinois Urbana-Champaign*
   
-- *2024-2025* Marion Morse Wood Fellowship ($12000)
+- *2024-2025* **Marion Morse Wood Fellowship** ($12000)<br>
   *Graduate College, University of Illinois Urbana-Champaign*
+
+- *2023–2025*	**Friends Conference Travel Award** (Total: $2800) <br>
+					Department of Communication, University of Illinois Urbana-Champaign
   
-- *2018–2025* Teacher Ranked as Excellent
-  Fall 2018, Fall 2020*, Spring 2021, Fall 2021, Spring 2022*, Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025*
+- *2023, 2024* **Conference Presentation Award** (Total: $300)<br>
+  *Graduate College, University of Illinois Urbana-Champaign*
+
+- *2023, 2024* **Conference Travel Grant** (Total: $400) <br>
+  Student Caucus, National Communication Association
+  
+- *2018–2025* **Teacher Ranked as Excellent** <br>
+  Fall 2018, Fall 2020*, Spring 2021, Fall 2021, Spring 2022*, Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025* <br>
+  University of Illinois Urbana-Champaign <br>
   *Denotes outstanding rating for top 10% of TAs among campus
   
-- *2021, 2023* Elizabeth Winter Young Fellowship ($7500) *Department of Communication, University of Illinois, Urbana-Champaign*
+- *2021, 2023* **Elizabeth Winter Young Fellowship** (Total: $7500) <br>
+  *Department of Communication, University of Illinois, Urbana-Champaign*
 
 
-# 📖 Educations
+# 📖 Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois, Urbana-Champaign
 - *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois, Urbana-Champaign 
 
@@ -76,5 +82,5 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
 - CMN336 Family Communication
 
 **Teaching Assistant**
-- CMN102 Introductino to Communication
+- CMN102 Introduction to Communication
 - CMN230 Introduction to Interpersonal Communication
