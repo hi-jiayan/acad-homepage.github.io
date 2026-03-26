@@ -14,6 +14,8 @@ Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinoi
 
 I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
+Feel free to reach out via email at jiayan2@illinois.edu with any questions, to chat about research, or to explore potential collaborations.
+
 ## Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
 - *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois Urbana-Champaign 
