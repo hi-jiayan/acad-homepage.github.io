@@ -18,9 +18,7 @@ My primary area of research focuses on **supportive communication**. I examine h
 
 My second area examines **how expert communication translates medical information into actionable patient understanding**. I investigate how communication strategies used by expert sources shape patient interpretation, trust, and health behaviors. In this work, I consider both how people evaluate the source of a message and how they process the message itself. My research aims to identify how expert communication can be designed to foster understanding, support patient autonomy, and reduce resistance to medical advice. Recent projects in this area examine message source as a strategy to reduce resistance to health recommendations, the use of analogies by physicians to explain medical information (e.g., “the immune system as a sports team”), the impact of nonverbal accommodation in patient–provider interactions, and the role of implicit bias in maternal health encounters.
 
-Across these areas, my research advances a broader goal of understanding how communication processes shape how people cope with health challenges and how they respond to support and influence. By integrating interpersonal communication and social influence perspectives, my work seeks to inform both communication theory and practical approaches to improving health and well-being.
-
-Feel free to reach out to me via email at jiayan2@illinois.edu with any questions, to chat about research, or to explore potential collaborations.
+Across these areas, my research advances a broader goal of understanding how communication processes shape how people cope with health challenges and how they respond to support and influence. By integrating interpersonal communication and social influence perspectives, my work seeks to inform both communication theory and practical approaches to improving health and well-being. Feel free to reach out to me via email at jiayan2@illinois.edu with any questions, to chat about research, or to explore potential collaborations.
 
 ## Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
